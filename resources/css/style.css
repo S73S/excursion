@@ -19,11 +19,11 @@ h3 {
   font-size: 21px;
   color: grey;
 }
-link {
+.link {
   font-weight: normal;
   font-size: 16px;
   color: Aquamarine;
-  }
+}
 .copyright {
     text-align: right;
   }
